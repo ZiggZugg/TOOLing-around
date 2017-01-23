@@ -47,6 +47,6 @@ public:
 
 	// Need to be able to graphically represent maps for analysis.
 	void printMap() {
-
+		return;
 	}
 };
